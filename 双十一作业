@@ -1,0 +1,12 @@
+#include<stdio.h>
+	void main(){
+	int a;	int user_num;
+	int arr[]={31,28,31,30,31,30,31,31,30,31,30,31};
+	for (a=0;a<=11;a++){
+	printf("%d\n",arr[a]);}
+	scanf("%d",&user_num);
+	printf("%d",arr[user_num]);
+	
+
+
+}
