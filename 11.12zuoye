@@ -1,0 +1,4 @@
+#include<stdio.h>
+void a(){
+	printf("love you\n");}
+void main(){a();}
